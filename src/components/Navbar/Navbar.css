@@ -1,0 +1,25 @@
+.navbar1{
+    display: flex;
+     justify-content: space-around;
+     align-items: center;
+     padding: 20px;
+     
+}
+.icon-text{
+    font-size: 30px;
+    letter-spacing:4px;
+    align-items: center;
+}
+.middle{
+    display: flex;
+    gap:25px;
+}
+.item{
+    cursor: pointer;
+    color: black;
+}
+.right{
+    display: flex;
+    gap: 10px;
+    
+}
